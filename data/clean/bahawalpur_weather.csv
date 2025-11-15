@@ -1,0 +1,4 @@
+city,date,time_ampm,temperature_c,humidity_percent,conditions,wind_speed_kmh
+Bahawalpur,2025-11-05,11:00 PM,17.8,72,Clear sky,4.2
+Bahawalpur,2025-11-06,12:00 AM,17.2,71,Clear sky,4.5
+Bahawalpur,2025-11-10,06:00 PM,23.5,43,Clear sky,3.3

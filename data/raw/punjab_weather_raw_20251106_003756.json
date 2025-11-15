@@ -1,0 +1,182 @@
+[
+    {
+        "city": "Lahore",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 17.2,
+                "humidity_percent": 65,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 4.9
+            }
+        ]
+    },
+    {
+        "city": "Faisalabad",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 15.5,
+                "humidity_percent": 54,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 4.9
+            }
+        ]
+    },
+    {
+        "city": "Rawalpindi",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 13.0,
+                "humidity_percent": 89,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 4.9
+            }
+        ]
+    },
+    {
+        "city": "Multan",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 18.6,
+                "humidity_percent": 65,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 3.7
+            }
+        ]
+    },
+    {
+        "city": "Sialkot",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 15.8,
+                "humidity_percent": 64,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 4.3
+            }
+        ]
+    },
+    {
+        "city": "Gujranwala",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 15.6,
+                "humidity_percent": 70,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 5.8
+            }
+        ]
+    },
+    {
+        "city": "Bahawalpur",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 17.2,
+                "humidity_percent": 71,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 4.5
+            }
+        ]
+    },
+    {
+        "city": "Rahim Yar Khan",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 19.1,
+                "humidity_percent": 72,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 6.1
+            }
+        ]
+    },
+    {
+        "city": "Dera Ghazi Khan",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 19.8,
+                "humidity_percent": 72,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 3.9
+            }
+        ]
+    },
+    {
+        "city": "Sahiwal",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 16.5,
+                "humidity_percent": 51,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 4.7
+            }
+        ]
+    },
+    {
+        "city": "Okara",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 15.8,
+                "humidity_percent": 53,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 5.0
+            }
+        ]
+    },
+    {
+        "city": "Kasur",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 16.3,
+                "humidity_percent": 65,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 5.2
+            }
+        ]
+    },
+    {
+        "city": "Sheikhupura",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 15.8,
+                "humidity_percent": 75,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 5.7
+            }
+        ]
+    },
+    {
+        "city": "Jhang",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 18.1,
+                "humidity_percent": 43,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 4.5
+            }
+        ]
+    },
+    {
+        "city": "Gujrat",
+        "current_hourly_forecast_PKT": [
+            {
+                "time_PKT": "2025-11-06T00:00",
+                "temperature_c": 16.1,
+                "humidity_percent": 67,
+                "conditions": "Clear sky",
+                "wind_speed_kmh": 6.9
+            }
+        ]
+    }
+]

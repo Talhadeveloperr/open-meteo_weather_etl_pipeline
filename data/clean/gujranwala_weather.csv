@@ -1,0 +1,4 @@
+city,date,time_ampm,temperature_c,humidity_percent,conditions,wind_speed_kmh
+Gujranwala,2025-11-05,11:00 PM,16.1,70,Clear sky,5.6
+Gujranwala,2025-11-06,12:00 AM,15.6,70,Clear sky,5.8
+Gujranwala,2025-11-10,06:00 PM,19.0,61,Clear sky,3.5

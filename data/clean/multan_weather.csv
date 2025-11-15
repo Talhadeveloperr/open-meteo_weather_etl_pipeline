@@ -1,0 +1,4 @@
+city,date,time_ampm,temperature_c,humidity_percent,conditions,wind_speed_kmh
+Multan,2025-11-05,11:00 PM,19.7,61,Clear sky,3.4
+Multan,2025-11-06,12:00 AM,18.6,65,Clear sky,3.7
+Multan,2025-11-10,06:00 PM,22.8,50,Clear sky,3.9

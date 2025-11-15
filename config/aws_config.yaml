@@ -1,0 +1,12 @@
+# AWS Configuration File
+aws:
+  access_key_id: 
+  secret_access_key: 
+  region_name: 
+s3:
+  bucket_name: 
+  raw_prefix: 
+  clean_prefix: 
+
+
+
